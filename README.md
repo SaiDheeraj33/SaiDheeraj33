@@ -101,13 +101,13 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
   <tr>
     <td width="50%" align="center">
       <h3>🥇 LeetCode</h3>
-      <img src="https://img.shields.io/badge/Knight_Guardian-2043_Max_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode knight"/>
+      <a href="https://leetcode.com/u/iit2020155/"><img src="https://img.shields.io/badge/Knight_Guardian-2043_Max_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode knight"/></a>
       <br/><br/>
       <b>Top tier problem solver</b> — dynamic programming,<br/>graphs, greedy & everything in between
     </td>
     <td width="50%" align="center">
       <h3>🔵 Codeforces</h3>
-      <img src="https://img.shields.io/badge/Expert-1717_Max_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces expert"/>
+      <a href="https://codeforces.com/profile/Johnnys_Zero"><img src="https://img.shields.io/badge/Expert-1717_Max_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces expert"/></a>
       <br/><br/>
       <b>Contest regular</b> — number theory, trees<br/>& tight 2-hour sprints
     </td>
@@ -223,9 +223,28 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 <div align="center">
 
-📌 *Currently curating my certification wall — new badges loading soon…* 🔄
+<table>
+  <tr>
+    <th width="72%">🎖 Certification</th>
+    <th width="28%">🏢 Issuer</th>
+  </tr>
+  <tr>
+    <td align="left">🔗 <a href="https://coursera.org/share/328098429d2cf11ad1b1de471881e969"><b>Spring Framework for Java Development</b></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/></td>
+  </tr>
+  <tr>
+    <td align="left">🔗 <a href="https://coursera.org/share/b0b434a01669d9c00aea99257562c484"><b>Introduction to Containers w/ Docker, Kubernetes &amp; OpenShift</b></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/></td>
+  </tr>
+  <tr>
+    <td align="left">🔗 <a href="https://www.coursera.org/account/accomplishments/verify/6EKX2CW7O6FU"><b>Building Scalable Java Microservices with Spring Boot &amp; Spring Cloud</b></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/></td>
+  </tr>
+</table>
 
-<!-- Add rows like: | 🎖 Cert Name | Issuer | Year | -->
+<br/>
+
+✅ *Verified credentials — click any certificate to view it*
 
 </div>
 
@@ -239,9 +258,9 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 <a href="mailto:saidheeraj22345@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://github.com/SaiDheeraj33"><img src="https://img.shields.io/badge/GitHub-SaiDheeraj33-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<!-- Replace the two URLs below with your LinkedIn profile and LeetCode handle pages -->
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight_·_2043-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/></a>
+<a href="https://www.linkedin.com/in/sai-dheeraj-b50982261/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://leetcode.com/u/iit2020155/"><img src="https://img.shields.io/badge/LeetCode-Knight_·_2043-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/></a>
+<a href="https://codeforces.com/profile/Johnnys_Zero"><img src="https://img.shields.io/badge/Codeforces-Expert_·_1717-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
 
 <br/><br/>
 
