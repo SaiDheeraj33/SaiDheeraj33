@@ -168,7 +168,7 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SaiDheeraj33&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&include_all_commits=true&count_private=true" alt="github stats"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaiDheeraj33&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&include_all_commits=true&count_private=true" alt="github stats"/>
     </td>
     <td width="50%">
       <img src="https://streak-stats.demolab.com?user=SaiDheeraj33&hide_border=true&background=1a1b26&stroke=1a1b26&ring=bb9af7&fire=f7768e&currStreakNum=eaefff&sideNums=a9b1d6&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" alt="streak stats"/>
@@ -181,7 +181,7 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj33&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="top languages"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaiDheeraj33&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="top languages"/>
     </td>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiDheeraj33&theme=tokyonight" alt="repos per language"/>
@@ -204,7 +204,16 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaiDheeraj33&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiDheeraj33&theme=tokyonight" alt="stats card"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiDheeraj33&theme=tokyonight" alt="productive time"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
