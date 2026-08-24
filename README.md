@@ -1,6 +1,6 @@
-<!-- ═══════════════════════ SAI DHEERAJ ═══════════════════════ -->
+<!-- ⚡ SAI DHEERAJ — GITHUB PROFILE ⚡ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26,7aa2f7,bb9af7&height=230&section=header&text=Sai%20Dheeraj&fontSize=48&fontColor=eaefff&fontAlignY=34&desc=%E2%9C%A6%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Backend%20Developer%20%E2%9C%A6&descSize=16&descAlignY=57&descColor=a9b1d6&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=1a1b26,7aa2f7,bb9af7&height=280&section=header&text=Sai%20Dheeraj&fontSize=50&fontColor=eaefff&fontAlignY=34&desc=%E2%9A%A1%20Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack%20%E2%80%A2%20Cloud%20Native%20%E2%9A%A1&descSize=15&descAlignY=56&descColor=a9b1d6&animation=twinkling" width="100%" alt="banner"/>
 
 <div align="center">
 
@@ -8,14 +8,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&height=60&lines=Software+Engineer;Backend+Developer;LeetCode+Knight+2043+%F0%9F%8F%85;Codeforces+Expert+1717;System+Design+Enthusiast" alt="typing"/>
 </a>
 
-<br/>
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SaiDheeraj33&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/SaiDheeraj33)
 [![Email](https://img.shields.io/badge/EMAIL-Say_Hi-E06C75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidheeraj22345@gmail.com)
 
+<br/><br/>
+
+[![ABOUT](https://img.shields.io/badge/%E2%8C%98_ABOUT-7AA2F7?style=flat-square&labelColor=1a1b26)](#about)
+[![STACK](https://img.shields.io/badge/%E2%8C%98_STACK-BB9AF7?style=flat-square&labelColor=1a1b26)](#stack)
+[![ARENA](https://img.shields.io/badge/%E2%8C%98_ARENA-9ECE6A?style=flat-square&labelColor=1a1b26)](#arena)
+[![WORK](https://img.shields.io/badge/%E2%8C%98_WORK-E0AF68?style=flat-square&labelColor=1a1b26)](#work)
+[![STATS](https://img.shields.io/badge/%E2%8C%98_STATS-F7768E?style=flat-square&labelColor=1a1b26)](#stats)
+[![LINKS](https://img.shields.io/badge/%E2%8C%98_LINKS-7DCFFF?style=flat-square&labelColor=1a1b26)](#links)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26,7aa2f7,bb9af7,1a1b26&height=3" width="100%" alt="divider"/>
+
+<a id="about"></a>
 
 ## 🧠 About Me
 
@@ -38,32 +49,34 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26,bb9af7,7aa2f7,1a1b26&height=3" width="100%" alt="divider"/>
+
+<a id="stack"></a>
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-**Languages**
+<h3>🧬 Languages</h3>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,js,cpp&theme=dark" alt="languages"/></a>
 
-**Frameworks & Runtime**
+<h3>⚙️ Frameworks & Runtime</h3>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs,flutter&theme=dark" alt="frameworks"/></a>
 
-**Databases**
+<h3>🗄️ Databases</h3>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" alt="databases"/></a>
 
-**Cloud, DevOps & Streaming**
+<h3>☁️ Cloud, DevOps & Streaming</h3>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark"/></a>
 &nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-**AI & Systems Extras**
+<h3>🤖 AI & Systems Extras</h3>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/></a>
 &nbsp;
@@ -72,7 +85,9 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26,7aa2f7,bb9af7,1a1b26&height=3" width="100%" alt="divider"/>
+
+<a id="arena"></a>
 
 ## 🏆 Competitive Programming
 
@@ -101,12 +116,17 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 <br/>
 
-![Rating](https://img.shields.io/badge/LeetCode-2043_⭐-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-![Rating](https://img.shields.io/badge/Codeforces-1717_⭐-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+![DP](https://img.shields.io/badge/Dynamic_Programming-1a1b26?style=flat-square&labelColor=1a1b26&color=FFA116)
+![Graphs](https://img.shields.io/badge/Graphs-1a1b26?style=flat-square&labelColor=1a1b26&color=1F8ACB)
+![Trees](https://img.shields.io/badge/Trees-1a1b26?style=flat-square&labelColor=1a1b26&color=9ECE6A)
+![Number_Theory](https://img.shields.io/badge/Number_Theory-1a1b26?style=flat-square&labelColor=1a1b26&color=BB9AF7)
+![Greedy](https://img.shields.io/badge/Greedy-1a1b26?style=flat-square&labelColor=1a1b26&color=F7768E)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26,bb9af7,7aa2f7,1a1b26&height=3" width="100%" alt="divider"/>
+
+<a id="work"></a>
 
 ## 💼 Experience Highlights
 
@@ -137,7 +157,9 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26,7aa2f7,bb9af7,1a1b26&height=3" width="100%" alt="divider"/>
+
+<a id="stats"></a>
 
 ## 📊 GitHub Stats
 
@@ -146,25 +168,47 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SaiDheeraj33&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=9F9F9F&include_all_commits=true&count_private=true" alt="github stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=SaiDheeraj33&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&include_all_commits=true&count_private=true" alt="github stats"/>
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=SaiDheeraj33&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=9F9F9F&currStreakLabel=F85D7F&sideLabels=9F9F9F&dates=9F9F9F" alt="streak stats"/>
+      <img src="https://streak-stats.demolab.com?user=SaiDheeraj33&hide_border=true&background=1a1b26&stroke=1a1b26&ring=bb9af7&fire=f7768e&currStreakNum=eaefff&sideNums=a9b1d6&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" alt="streak stats"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj33&layout=compact&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=9F9F9F" alt="top languages"/>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj33&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="top languages"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiDheeraj33&theme=tokyonight" alt="repos per language"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj33&bg_color=1a1b26&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&area_color=3b4261&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaiDheeraj33&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
+<!-- 🐍 Snake auto-refreshes daily via GitHub Action (.github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj33/dheeraj33/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj33/dheeraj33/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SaiDheeraj33/dheeraj33/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaiDheeraj33&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26,bb9af7,7aa2f7,1a1b26&height=3" width="100%" alt="divider"/>
 
 ## 📜 Certifications
 
@@ -176,7 +220,9 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26,7aa2f7,bb9af7,1a1b26&height=3" width="100%" alt="divider"/>
+
+<a id="links"></a>
 
 ## 🤝 Connect With Me
 
@@ -186,7 +232,7 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 <a href="https://github.com/SaiDheeraj33"><img src="https://img.shields.io/badge/GitHub-SaiDheeraj33-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <!-- Replace the two URLs below with your LinkedIn profile and LeetCode handle pages -->
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-SaiDheeraj33-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight_·_2043-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/></a>
 
 <br/><br/>
 
