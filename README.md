@@ -36,7 +36,7 @@ Engineering scalable systems by day, grinding graph problems by night ⚔️
 
 <br/>
 
-🎓 **B.Tech in Information Technology** — IIIT Allahabad · CGPA **8.29**
+🎓 **B.Tech in Information Technology** — IIIT Allahabad
 💼 Interned at **Walmart** · **MAQ Software** · **Klydo**
 🚀 Building **scalable microservices**, **cloud-native apps** & full-stack products
 🏅 **LeetCode Knight (2043)** · **Codeforces Expert (1717)**
